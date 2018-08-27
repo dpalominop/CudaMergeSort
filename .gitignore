@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Others
+x64/
+bin/
+*.user
+list.txt
+common/data
+common/lib
+common/src
